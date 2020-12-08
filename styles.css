@@ -1,0 +1,32 @@
+body {
+  background-color: lightcyan;
+}
+
+hr {
+  background-color: lightcyan;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+}
+
+h1 {
+  color: red;
+  font-size: 50px;
+  font-style: oblique;
+  font-weight: bold;
+
+}
+
+h3 {
+  color: red;
+}
+
+.ironman{
+  background-color: red;
+}
+
+.Rishabh{
+  background-color: lightcyan;
+}
